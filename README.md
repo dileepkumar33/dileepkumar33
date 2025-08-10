@@ -8,18 +8,18 @@
 
 ---
 
-### 🚀 About Me
+### ​ About Me
 <p>
-  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" style="margin-left: 15px;" />
+  <img align="right" height="150" src="https://ineedanime.com/anime-hi-gifs/" style="margin-left: 15px;" alt="Anime boy waving" />
   ✨ Creating bugs since … I first discovered C++ and thought <code>Hello World</code> was the hardest part 🐛  
-  📚 Currently learning … <strong>C++</strong> 💻 and <strong>Verilog</strong> ⚡ for digital design 🛠  
+  📚 Currently learning … **C++** 💻 and **Verilog** ⚡ for digital design 🛠  
   🎯 Goals: Build innovative projects, ace my academics 🚀  
-  🎲 Fun fact: My code works flawlessly… until I try to explain it to someone else 🤷‍♂️
+  🎲 Fun fact: My code works flawlessly… until I try to explain it to someone else 🤷‍♂️  
 </p>
 
 ---
 
-### 💻 Tech Stack
+### ​ Tech Stack
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   ⚡ Verilog
@@ -27,7 +27,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### ​ GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dileepkumar33&show_icons=true&theme=dracula&count_private=true" height="150" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dileepkumar33&layout=compact&theme=dracula" height="150" alt="Top languages" />
@@ -36,12 +36,12 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dileepkumar33/dileepkumar33/output/snake.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/dileepkumar33/dileepkumar33/output/snake.svg" width="100%" alt="Contribution snake" />
 </div>
 
 ---
 
-### 📬 Connect With Me
+### ​ Connect With Me
 <div align="center">
   <a href="mailto:dileepindo@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
