@@ -10,8 +10,8 @@
 
 ### ​ About Me
 <p>
-  <img align="right" height="150" src="https://ineedanime.com/anime-hi-gifs/" style="margin-left: 15px;" alt="Anime boy waving" />
-  ✨ Creating bugs since … I first discovered C++ and thought <code>Hello World</code> was the hardest part 🐛  
+  <img align="right" src="https://media0.giphy.com/media/jdFm2bcWlj4EUVCpc0/giphy.gif" width="130" height="130" alt="Anime Boy Waving" style="margin-left: 15px; border-radius: 10px;" />
+  ✨ Creating bugs since … I first discovered C++ and thought `Hello World` was the hardest part 🐛  
   📚 Currently learning … **C++** 💻 and **Verilog** ⚡ for digital design 🛠  
   🎯 Goals: Build innovative projects, ace my academics 🚀  
   🎲 Fun fact: My code works flawlessly… until I try to explain it to someone else 🤷‍♂️  
@@ -36,7 +36,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dileepkumar33/dileepkumar33/output/snake.svg" width="100%" alt="Contribution snake" />
+  <img src="https://raw.githubusercontent.com/dileepkumar33/dileepkumar33/output/snake.svg" width="100%" alt="Contribution snake"/>
 </div>
 
 ---
