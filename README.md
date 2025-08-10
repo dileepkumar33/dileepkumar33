@@ -9,10 +9,13 @@
 ---
 
 ### 🚀 About Me
-✨ Creating bugs since … I first discovered C++ and thought `Hello World` was the hardest part 🐛  
-📚 Currently learning … **C++** 💻 and **Verilog** ⚡ for digital design 🛠  
-🎯 Goals: Build innovative projects, ace my academics 🚀  
-🎲 Fun fact: My code works flawlessly… until I try to explain it to someone else 🤷‍♂️  
+<p>
+  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" style="margin-left: 15px;" />
+  ✨ Creating bugs since … I first discovered C++ and thought <code>Hello World</code> was the hardest part 🐛  
+  📚 Currently learning … <strong>C++</strong> 💻 and <strong>Verilog</strong> ⚡ for digital design 🛠  
+  🎯 Goals: Build innovative projects, ace my academics 🚀  
+  🎲 Fun fact: My code works flawlessly… until I try to explain it to someone else 🤷‍♂️
+</p>
 
 ---
 
