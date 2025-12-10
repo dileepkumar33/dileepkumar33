@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dileep Kumar M</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3dpcnlkYmJneTI4eGJiYjg5bHNudmJtMzFxbHpna3o1NmVucjh5eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FeVg8ViEczcxG/giphy.gif" width="220" alt="Chibi Anime Boy" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
-- Engineering student trying to master **C++** and **Verilog HDL** (and not lose my sanity 😅)
-- Enjoy building logic, breaking logic, and then calling it “feature testing”
-- Passionate about problem solving, digital design, and debugging (a polite word for suffering)
-- Goal: Build projects that future-me won’t bully me for
-- Motto: *“Write code today that doesn’t roast you tomorrow.”*
+<img align="right" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3dpcnlkYmJneTI4eGJiYjg5bHNudmJtMzFxbHpna3o1NmVucjh5eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FeVg8ViEczcxG/giphy.gif" alt="Chibi Anime Boy" />
+
+- Engineering student trying to master **C++** and **Verilog HDL**  
+- Enjoy building logic, breaking logic, and then pretending it was intentional  
+- Passionate about problem solving, digital design, and debugging (aka emotional damage)  
+- Goal: Build projects that future-me won’t bully me for  
+- Motto: *“Write code today that doesn’t roast you tomorrow.”*  
 
 ---
 
