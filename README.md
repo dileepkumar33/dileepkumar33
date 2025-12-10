@@ -1,39 +1,36 @@
 <h1 align="center">Hi 👋, I'm Dileep Kumar M</h1>
 
-<p align="center">
-  <img src="https://tenor.com/r6phVWi6mJ6.gif" height="120" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&color=1E90FF&center=true&vCenter=true&width=650&lines=Engineering+Student;C%2B%2B+Enthusiast;Digital+Design+Explorer+(Verilog);Learning+One+Bug+at+a+Time" alt="Typing SVG" />
-  </a>
-</p>
-
----
-
-### 🚀 About Me
-<img align="right" height="150" src="https://tenor.com/r6phVWi6mJ6.gif" />
-
-- 🎓 Engineering student diving deep into **C++** and **Digital Design (Verilog)**
-- 💻 Passionate about **problem solving**, **hardware logic**, and building stuff that actually works
-- 🧠 Slowly mastering the art of debugging (basically crying but professionally)
-- 🎯 Goal: Build solid projects, level up academically, and contribute to open-source
-- 💡 Motto: *“Write code that future-you doesn’t hate.”*
-
----
-
-### 💻 Tech Stack
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <span style="font-size: 20px; margin-left:10px;">Verilog</span>
+  <div class="tenor-gif-embed" data-postid="15056542706048617172" data-share-method="host" data-aspect-ratio="1.1399" data-width="250px">
+    <a href="https://tenor.com/view/chibi-anime-boy-gif-15056542706048617172">Chibi Anime Boy Sticker</a>
+    from <a href="https://tenor.com/search/chibi+anime+boy-stickers">Chibi Anime Boy Stickers</a>
+  </div>
+  <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+- Engineering student surviving on C++, Verilog, and questionable amounts of caffeine  
+- Loves building logic, breaking logic, and then pretending it was intentional  
+- Passionate about problem solving, hardware design, and debugging (aka emotional damage with extra steps)  
+- Goal: turn ideas into projects… and projects into GitHub commits that don’t look scary  
+- Motto: *“Write code today that future-you won’t file a complaint about.”*
+
+---
+
+### 🛠 Tech Stack
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+  <span style="font-size: 20px; margin-left:10px;">Verilog HDL</span>
 </div>
 
 ---
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dileepkumar33&show_icons=true&theme=tokyonight&count_private=true" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dileepkumar33&show_icons=true&theme=tokyonight&count_private=true" height="160" />
 </div>
 
 ---
