@@ -3,7 +3,7 @@
 ---
 
 ### 👨‍💻 About Me
-<img align="right" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3dpcnlkYmJneTI4eGJiYjg5bHNudmJtMzFxbHpna3o1NmVucjh5eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tptFQ8QAJYYvu/giphy.gif alt="Chibi Anime Boy" />
+<img align="right" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3dpcnlkYmJneTI4eGJiYjg5bHNudmJtMzFxbHpna3o1NmVucjh5eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tptFQ8QAJYYvu/giphy.gif" alt="Chibi Anime Boy" />
 
 - Engineering student trying to master **C++** and **Verilog HDL**  
 - Enjoy building logic, breaking logic, and then pretending it was intentional  
