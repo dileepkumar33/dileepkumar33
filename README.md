@@ -1,45 +1,148 @@
-<h1 align="center">Hi 👋, I'm Dileep Kumar M</h1>
+# <h1 align="center">Hi 👋, I'm Dileep Kumar M</h1>
+
+<h3 align="center">Electronics & Communication Engineering Student | VLSI Enthusiast | C++ | SQL | Verilog HDL</h3>
 
 ---
 
-### 👨‍💻 About Me
-<img align="right" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3dpcnlkYmJneTI4eGJiYjg5bHNudmJtMzFxbHpna3o1NmVucjh5eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tptFQ8QAJYYvu/giphy.gif" alt="Chibi Anime Boy" />
+## 🚀 About Me
 
-- Engineering student trying to master **C++** and **Verilog HDL**  
-- Enjoy building logic, breaking logic, and then pretending it was intentional  
-- Passionate about problem solving, digital design, and debugging (aka emotional damage)  
-- Goal: Build projects that future-me won’t bully me for  
-- Motto: *“Write code today that doesn’t roast you tomorrow.”*  
+* 🎓 Electronics & Communication Engineering Student
+* 🌱 Currently learning **C++, SQL, DSA & Verilog HDL**
+* 💡 Interested in **VLSI, Embedded Systems, Digital Design & Problem Solving**
+* 💻 Building projects in **IoT, Embedded Systems and Digital Electronics**
+* 🎯 Goal: Become a skilled **VLSI / Embedded Engineer**
+* ⚡ Always learning something new.
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
+
+### Languages & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,mysql,git,github,vscode,linux" />
+</p>
+
+**Also familiar with:** Verilog HDL • Arduino • ESP32 • Firebase
+
+---
+
+# 📈 Coding Profiles
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <span style="font-size: 18px; margin-left:10px;">Verilog HDL</span>
+
+<a href="https://leetcode.com/u/l5LiQsxP1V/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://github.com/dileepkumar33">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dileep-kumarm">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
 </p>
 
 ---
 
-### 📊 GitHub Stats
+# 🏆 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dileepkumar33&show_icons=true&theme=tokyonight&count_private=true" height="160" alt="GitHub Stats" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dileepkumar33&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=dileepkumar33&theme=tokyonight"/>
+
 </p>
 
 ---
 
-### 📬 Connect With Me
+# 💻 Most Used Languages
+
 <p align="center">
-  <a href="mailto:dileepindo@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://www.linkedin.com/in/dileep-kumarm">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://leetcode.com/u/l5LiQsxP1V/">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=black&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://github.com/dileepkumar33">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=333333&logoColor=white&style=for-the-badge" height="35" />
-  </a>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dileepkumar33&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dileepkumar33&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=dileepkumar33&theme=tokyonight&margin-w=10&margin-h=10"/>
+
+</p>
+
+---
+
+# 🔥 LeetCode Stats
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/l5LiQsxP1V?theme=dark&font=Karma&ext=contest"/>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=dileepkumar33&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+* ✅ Master C++
+* ✅ Build impactful VLSI & Embedded Projects
+* ✅ Contribute to Open Source
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:dileepindo@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dileep-kumarm">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/l5LiQsxP1V/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://github.com/dileepkumar33">
+<img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ *"Keep Learning. Keep Building. Keep Improving."*
+
 </p>
