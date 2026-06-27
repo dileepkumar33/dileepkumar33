@@ -15,9 +15,7 @@
 
 ---
 
-## 🛠 Tech Stack
-
-### Languages & Tools
+# 🛠 Tech Stack
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=cpp,mysql,git,github,vscode,linux" />
@@ -47,7 +45,7 @@
 
 ---
 
-# 🏆 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -69,21 +67,11 @@
 
 ---
 
-# 📊 GitHub Activity Graph
+# 📈 GitHub Activity Graph
 
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dileepkumar33&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏅 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dileepkumar33&theme=tokyonight&margin-w=10&margin-h=10"/>
 
 </p>
 
@@ -99,19 +87,10 @@
 
 ---
 
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=dileepkumar33&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
-
 # 🎯 2026 Goals
 
 * ✅ Master C++
+* ✅ Become proficient in SQL
 * ✅ Build impactful VLSI & Embedded Projects
 * ✅ Contribute to Open Source
 
@@ -142,7 +121,5 @@
 ---
 
 <p align="center">
-
-⭐ *"Keep Learning. Keep Building. Keep Improving."*
-
+⭐ <b>Keep Learning • Keep Building • Keep Improving</b>
 </p>
